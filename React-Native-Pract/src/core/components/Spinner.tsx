@@ -4,7 +4,7 @@ import React from 'react'
 export const Spinner = () => {
   return (
     <View>
-      <Text>Spinner</Text>
+      <Text>Loading. . .</Text>
     </View>
   )
 }
